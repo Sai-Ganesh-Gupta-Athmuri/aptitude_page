@@ -23,12 +23,12 @@ export default function NumberSystem() {
             <li>Place value of 3 = 3 x 102 = 3 x 100 = 300</li>
           </ul>
           <br/><br/>
-          <p className='mainpoints'>0th position digit is called unit digit and is the most commonly used topic in aptitude tests.</p>
+          <p className='mainpoints2'>0th position digit is called unit digit and is the most commonly used topic in aptitude tests.</p>
           <br/><br/>
           <h2>Types Of Numbers</h2><br/>
           <p>1. <b>Natural Numbers</b> - n &gt; 0 where n is counting number; [1,2,3...]</p><br/>
           <p>2. <b>Whole Numbers</b> - n ≥ 0 where n is counting number; [0,1,2,3...].</p><br/>
-          <p className='mainpoints'>0 is the only whole number which is not a natural number.Every natural number is a whole number.</p><br/>
+          <p className='mainpoints2'>0 is the only whole number which is not a natural number.Every natural number is a whole number.</p><br/>
           <p>3. <b>Integers</b> - n ≥ 0 or n ≤ 0 where n is counting number;...,-3,-2,-1,0,1,2,3... are integers.</p><br/>
           <ul>
             <li>Positive Integers - n &gt; 0; [1,2,3...]</li>
@@ -36,7 +36,7 @@ export default function NumberSystem() {
             <li>Non-Positive Integers - n ≤ 0; [0,-1,-2,-3...]</li>
             <li>Non-Negative Integers - n ≥ 0; [0,1,2,3...]</li>
           </ul><br/><br/>
-          <p className='mainpoints'>0 is neither positive nor negative integer.</p><br/>
+          <p className='mainpoints2'>0 is neither positive nor negative integer.</p><br/>
           <p>4. <b>Even Numbers</b> - n / 2 = 0 where n is counting number; [0,2,4,...]</p><br/>
           <p>5. <b>Odd Numbers</b> - n / 2 ≠ 0 where n is counting number; [1,3,5,...]</p><br/>
           <p>6. <b>Prime Numbers</b> - Numbers which is divisible by themselves only apart from 1.</p><br/>
@@ -57,7 +57,7 @@ export default function NumberSystem() {
             Result - 187 is not a prime number.<br/>
           </p><br/>
           <p>7. <b>Composite Numbers</b> - Non-prime numbers &gt; 1. For example, 4,6,8,9 etc.</p><br/>
-          <p className='mainpoints'>1 is neither a prime number nor a composite number.<br/>2 is the only even prime number.</p><br/>
+          <p className='mainpoints2'>1 is neither a prime number nor a composite number.<br/>2 is the only even prime number.</p><br/>
           <p>8. <b>Co-Primes Numbers</b> - Two natural numbers are co-primes if their H.C.F. is 1. For example, (2,3), (4,5) are co-primes.</p><br/><br/>
           <h2>Divisibility</h2><br/>
           <h4>Following are tips to check divisibility of numbers.</h4><br/>
@@ -192,7 +192,7 @@ export default function NumberSystem() {
             </ol><br/>
             <h2>Division Algorithm</h2><br/>
             <p>When a number is divided by another number then</p><br/>
-            <p className='mainpoints'>Dividend = (Divisor x Quotient) + Reminder</p><br/><br/>
+            <p className='mainpoints2'>Dividend = (Divisor x Quotient) + Reminder</p><br/><br/>
             <h2>Series</h2><br/>
             <h4>Following are formulaes for basic number series:</h4><br/>
             <ol>

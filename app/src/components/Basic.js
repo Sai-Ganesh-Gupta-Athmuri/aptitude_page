@@ -22,7 +22,7 @@ export default function Basic() {
             <li>Sum of n number is denoted as 'Sn'.</li>
             </ul><br/>
             <h2>A.P. Examples</h2><br/>
-            <ul className='mainpoints'>
+            <ul className='mainpoints2'>
             <li>1, 3, 5, 7, ... is an A.P. where a = 1 and d = 3 - 1 = 2.</li>
             <li>7, 5, 3, 1, - 1 ... is an A.P. where a = 7 and d = 5 - 7 = -2.</li>
             </ul><br/>

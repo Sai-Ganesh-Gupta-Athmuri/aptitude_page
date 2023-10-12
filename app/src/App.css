@@ -485,4 +485,72 @@
   list-style: none;
 }
 
+.topics .bodyofns .mainpoints2{
+  height: 95px;
+  width: 80%;
+  background-color: rgb(205, 202, 190);
+  border-radius: 10px;
+  padding: 17px;
+  border-left: 15px solid black;
+  border-right: 15px solid black;
+  font-weight: 900;
+  line-height: 1.6;
+}
+
+.topics .bodyofns .mainpoints3{
+  height: 210px;
+  width: 80%;
+  background-color: rgb(205, 202, 190);
+  border-radius: 10px;
+  padding: 20px;
+  border-left: 15px solid black;
+  border-right: 15px solid black;
+  font-weight: 900;
+  line-height: 1.6;
+}
+
+.topics .bodyofns .mainpoints4{
+  height: 280px;
+  width: 85%;
+  background-color: rgb(205, 202, 190);
+  border-radius: 10px;
+  padding: 20px;
+  border-left: 15px solid black;
+  border-right: 15px solid black;
+  font-weight: 900;
+  line-height: 1.6;
+}
+
+.topics .bodyofns table{
+  border : 1px solid black;
+}
+
+tr,th,td{
+  padding: 10px;
+}
+
+.topics .bodyofns .mainpoints5{
+  height: 630px;
+  width: 85%;
+  background-color: rgb(205, 202, 190);
+  border-radius: 10px;
+  padding: 24px;
+  border-left: 12px solid black;
+  border-right: 12px solid black;
+  font-weight: 900;
+  line-height: 1.6;
+}
+
+.topics .bodyofns .mainpoints6{
+  height: 60px;
+  width: 80%;
+  background-color: rgb(205, 202, 190);
+  border-radius: 10px;
+  padding: 20px;
+  border-left: 12px solid black;
+  border-right: 12px solid black;
+  font-weight: 900;
+  line-height: 1.6;
+}
+
 /*NumberSystem section*/
