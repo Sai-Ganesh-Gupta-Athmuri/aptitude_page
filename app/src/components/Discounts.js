@@ -8,7 +8,7 @@ export default function Discounts() {
             <Sidenav/>
         </div>
         <div className='bodyofns'>
-            <h1>Number System - Discounts</h1><br/>
+            <h1>Aptitude - Discounts</h1><br/>
             <hr/><br/><br/>
             <p>Suppose a man has to pay Rs. 156 after 4 years and the rate of interest is 14% per annum. Clearly, Rs. 100 at 14% will amount to R. 156 in 4 years. So, the payment of Rs. now will clear off the debt of Rs. 156 due 4 years hence. We say that:</p><br/>
 

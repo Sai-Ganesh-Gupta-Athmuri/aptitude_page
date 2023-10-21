@@ -8,7 +8,7 @@ export default function Ratios() {
             <Sidenav/>
         </div>
         <div className='bodyofns'>
-        <h1>Number System - Ratios</h1><br/>
+        <h1>Aptitude - Ratios</h1><br/>
         <hr/><br/><br/>
         <h2>Ratio</h2><br/>
         <p>Ratio represents the proportion in which a number contains another number. A ratio is represented by a/b or a:b. The duplication or division of every term of a proportion by the same non zero number does not influence the proportion.Subsequently, 3:5 is the same as 6:10 or 9:15 or 12:20 and so on.</p><br/>

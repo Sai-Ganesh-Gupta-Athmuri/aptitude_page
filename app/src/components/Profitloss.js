@@ -8,7 +8,7 @@ export default function Profitloss() {
             <Sidenav/>
         </div>
         <div className='bodyofns'>
-            <h1>Number System - Profit & Loss</h1><br/>
+            <h1>Aptitude - Profit & Loss</h1><br/>
             <hr/><br/><br/>
             <ol className='mainpoints3'>
             <li>Cost Price, (c.p.) = The price, at which an article is purchased, is called its cost price.</li>

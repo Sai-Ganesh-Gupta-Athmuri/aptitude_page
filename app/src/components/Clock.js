@@ -8,7 +8,7 @@ export default function Clock() {
             <Sidenav/>
         </div>
         <div className='bodyofns'>
-            <h1>Number System - Clock</h1><br/>
+            <h1>Aptitude - Clock</h1><br/>
             <hr/><br/><br/>
             
             <p>The face or dial of a watch is a circle whose outline is partitioned into 60 equivalent amounts of, called moment spaces.</p><br/>

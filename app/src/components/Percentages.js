@@ -8,7 +8,7 @@ export default function Percentages() {
             <Sidenav/>
         </div>
         <div className='bodyofns'>
-        <h1>Number System - Percentages</h1><br/>
+        <h1>Aptitude - Percentages</h1><br/>
         <hr/><br/><br/><br/><br/>
         <h2>Percentage</h2><br/>
         <p>Percent means many hundredths.Example: z% is z percent which means z hundredths. It will be written as:</p><br/>

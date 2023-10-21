@@ -8,7 +8,7 @@ export default function Timework() {
             <Sidenav/>
         </div>
         <div className='bodyofns'>
-            <h1>Number System - Time & Work</h1><br/>
+            <h1>Aptitude - Time & Work</h1><br/>
             <hr/><br/><br/><br/>
             <ol>
                 <li>If A can do a piece of work in n days, then A's 1 day work = 1/n.</li><br/>

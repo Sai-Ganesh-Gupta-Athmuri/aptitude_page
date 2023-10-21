@@ -8,7 +8,7 @@ export default function Calendar() {
             <Sidenav/>
         </div>
         <div className='bodyofns'>
-            <h1>Number System - Calendar</h1><br/>
+            <h1>Aptitude - Calendar</h1><br/>
             <hr/><br/><br/>
             <ol>
             <li><b>Odd days :</b> In a given period, the quantity of days more than the complete weeks are called Odd days.</li><br/>

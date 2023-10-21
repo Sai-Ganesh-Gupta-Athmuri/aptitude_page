@@ -13,7 +13,6 @@ export default function Tsd() {
             <hr/><br/><br/><br/>
             <h2>Formulaes</h2><br/>
             <ul className='mainpoints'>
-<<<<<<< HEAD
                 <li>Speed = Distance/Time.</li>
                 <li>Time = Distance/Speed.</li>
                 <li>P km/hr = (P x 5/18)m/sec</li>

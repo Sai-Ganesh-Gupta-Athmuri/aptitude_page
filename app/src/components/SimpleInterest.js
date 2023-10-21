@@ -8,7 +8,7 @@ export default function SimpleInterest() {
             <Sidenav/>
         </div>
         <div className='bodyofns'>
-            <h1>Number System - Simple Interest</h1><br/>
+            <h1>Aptitude - Simple Interest</h1><br/>
             <hr/><br/><br/>
             <ol>
             <li><b>Simple Interest:</b> If the interest on a sum of money borrowed for a certain time period is reckoned uniformly, it is called as Simple Interest.</li><br/>
